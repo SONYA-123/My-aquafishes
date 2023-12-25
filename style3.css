@@ -1,0 +1,29 @@
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    color: darkblue;
+}
+main, footer {
+    background-color: aqua;
+    color: blue;
+}
+h4 {
+    font-size: 30px;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+}
+nav {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+    background-color: aqua;
+    color: blue;
+}
+nav a {
+    text-decoration: none;
+    margin: 95px;
+    font-size: 20px;
+}
